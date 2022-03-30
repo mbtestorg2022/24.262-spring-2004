@@ -3,6 +3,7 @@ content_type: resource
 description: Sample student paper courtesy of Tyler Johnson. Used with permission.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/24-262-feeling-and-imagination-in-art-science-and-technology-spring-2004/f6ad15fa3f9a8d44ef1541de7e0a4c19_a_cappella_1.pdf
 file_type: application/pdf
+parent_uid: a0770509-26c7-f149-64cd-95d8c8815bac
 resourcetype: Document
 title: Imagination and Creativity in Modern Collegiate A Cappella Arranging, Performing,
   and Recording
